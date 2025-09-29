@@ -1,0 +1,8 @@
+# Ignore build files
+*.o
+*.out
+*.exe
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
